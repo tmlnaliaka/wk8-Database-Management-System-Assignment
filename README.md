@@ -9,7 +9,7 @@ The database is designed to be in at least 3NF, with proper constraints (primary
 
 #### Table Details
 
-Airports: Stores airport details (e.g., JFK, LAX).
+Airports: Stores airport details (e.g., JFK, LAX)./
 -Aircraft: Stores aircraft details (e.g., model, capacity).
 Flights: Stores flight schedules, linking to airports and aircraft.
 Passengers: Stores passenger information.
