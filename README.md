@@ -19,9 +19,7 @@ CrewAssignments: Links crew to flights (M-M relationship).
 
 #### How to Run/Setup the Project
 
-Install MySQL: Ensure MySQL is installed on your system (e.g., MySQL Community Server)  
-Create Database: Run CREATE DATABASE airline_services; in MySQL.  
-Import SQL File  
+Import SQL File (airline_services) 
 Open MySQL command-line client or a tool like MySQL Workbench.  
 Use the command: SOURCE path/to/airline_services.sql; or import the airline_services.sql file via the GUI.  
 Verify Setup: Query the tables (e.g., SELECT * FROM Airports;) to ensure they are created correctly.  
